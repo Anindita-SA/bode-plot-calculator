@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bode-plot-calculator/static/css/main.78c149a5.css",
+    "main.js": "/bode-plot-calculator/static/js/main.fc1a054d.js",
+    "static/js/453.011b1c3a.chunk.js": "/bode-plot-calculator/static/js/453.011b1c3a.chunk.js",
+    "index.html": "/bode-plot-calculator/index.html",
+    "main.78c149a5.css.map": "/bode-plot-calculator/static/css/main.78c149a5.css.map",
+    "main.fc1a054d.js.map": "/bode-plot-calculator/static/js/main.fc1a054d.js.map",
+    "453.011b1c3a.chunk.js.map": "/bode-plot-calculator/static/js/453.011b1c3a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78c149a5.css",
+    "static/js/main.fc1a054d.js"
+  ]
+}
